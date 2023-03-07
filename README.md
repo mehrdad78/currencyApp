@@ -1,5 +1,5 @@
 # CurrencyApp
-This application is  a currency converter based on EUR written in Kotlin and MVVM Architecture.
+This application is  a currency converter based on EUR written in Kotlin and **MVVM** Architecture.
 
 **Api**: *(https://exchangeratesapi.io/)*
 
